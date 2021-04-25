@@ -1,3 +1,12 @@
+/*
+ 
+ Straight_MAX_MIN Algorithm is used to find out the Maximum and Minimum element
+ in an array in a single scan.
+ 
+ Time Complexity: Theta(n)
+ 
+ */
+
 package algorithms;
 
 import java.util.Scanner;
@@ -14,6 +23,7 @@ public class Straight_MAX_MIN {
 			ar[i] = input.nextInt();
 		}
 		
+		//Straight_MAX_MIN Algorithm
 		int max, min;
 		max = min = ar[0];
 		
