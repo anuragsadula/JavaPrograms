@@ -27,8 +27,18 @@ public class Straight_MAX_MIN {
 			}
 		}
 		
-		System.out.println("Maximum element is: "+max+" and minimum element is: "+min);
+		System.out.println("Maximum element is: "+max);
+		System.out.println("Minimum element is: "+min);
 		input.close();
 	}
 
 }
+
+/*
+
+Enter the size of the array: 5
+4 116 5 11 1
+Maximum element is: 116
+Minimum element is: 1
+  
+*/
