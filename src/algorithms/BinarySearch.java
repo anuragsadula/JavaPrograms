@@ -2,7 +2,7 @@
 
 	Binary Search algorithm works for sorted array only.
 	
-	Time Complexity: Theta(log(n))(In Worst Case)
+	Time Complexity: Theta(log(n))  (In Worst Case)
 	  	       : O(1)(Constant) (In Best Case)
 */
 
