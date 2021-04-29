@@ -7,7 +7,7 @@
  2. Stack Space S(n): 1(Constant)(In Every Case)
  
  3. Time Complexity T(n): log(n)(In Worst Case and Average Case)
-						: 1(Constant)(In Best Case)
+			: 1(Constant)(In Best Case)
 						
  4. Computer point of view it is better to use iterative algorithm for Binary Search
     than recursive algorithm.
